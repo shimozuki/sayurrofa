@@ -1,4 +1,4 @@
-<h1 align="center">Deteksi Masker</h1>
+<h1 align="center">SAYUR ROFA</h1>
 
 
 <img src= "https://github.com/shimozuki/deteksi-masker/blob/master/images/2.png" height=500 width=500>
@@ -15,9 +15,6 @@ Feel free to mail me for any doubts/query
 ## :heart: Owner
 Made with :heart:&nbsp;  by [Robi](https://github.com/shimozuki)
 
-## :+1: Credits
-* [https://www.pyimagesearch.com/](https://www.pyimagesearch.com/)
-* [https://www.tensorflow.org/tutorials/images/transfer_learning](https://www.tensorflow.org/tutorials/images/transfer_learning)
 
 ## :eyes: License
 MIT © [Robi](https://github.com/shimozuki)
